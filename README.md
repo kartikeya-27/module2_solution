@@ -1,2 +1,2 @@
-# module2_solution
+# Responsive_Restaurant_Site
 Responsive_Restaurant_Site
